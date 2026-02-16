@@ -6,7 +6,7 @@ This Power BI dashboard analyzes global economic, social, health, and environmen
 
 The objective is to understand global development patterns by examining poverty reduction, economic growth, inequality, healthcare investment, and environmental sustainability.
 
-![alt text](images\world_indicator_analysis.gif)
+![World Indicators Analysis](./images/world_indicator_analysis.gif)
 
 ---
 
